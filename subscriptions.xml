@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for stu@alwaystwisted.com</title>
-    <dateCreated>Fri, 26 Apr 2019 07:35:26 -0500</dateCreated>
+    <dateCreated>Mon, 29 Apr 2019 06:34:05 -0500</dateCreated>
     <ownerEmail>stu@alwaystwisted.com</ownerEmail>
   </head>
   <body>
@@ -171,6 +171,7 @@
 <outline text="Jon Pearse" title="Jon Pearse" type="rss" xmlUrl="https://jonpearse.net/writing/feed.xml" htmlUrl="https://jonpearse.net/"/>
 <outline text="Jon Christopher" title="Jon Christopher" type="rss" xmlUrl="https://jonchristopher.us/feed/" htmlUrl="https://jonchristopher.us"/>
 <outline text="CSS { In Real Life }" title="CSS { In Real Life }" type="rss" xmlUrl="https://css-irl.info/rss.xml" htmlUrl="https://css-irl.info"/>
+<outline text="Sally Lait" title="Sally Lait" type="rss" xmlUrl="https://sallylait.com/blog/index.xml" htmlUrl="https://sallylait.com/blog/"/>
 <outline text="Frank M Taylor" title="Frank M Taylor" type="rss" xmlUrl="https://blog.frankmtaylor.com/feed/" htmlUrl="https://blog.frankmtaylor.com"/>
 <outline text="Zeichenschatz" title="Zeichenschatz" type="rss" xmlUrl="https://www.zeichenschatz.net/feed" htmlUrl="https://www.zeichenschatz.net"/>
 <outline text="MadeByMike" title="MadeByMike" type="rss" xmlUrl="https://www.madebymike.com.au/rss.xml" htmlUrl="https://madebymike.com.au/"/>
@@ -198,6 +199,7 @@
 <outline text="Sam Hardacre" title="Sam Hardacre" type="rss" xmlUrl="https://blog.nocturnalmonkey.com/rss/" htmlUrl="https://blog.nocturnalmonkey.com/"/>
 <outline text="Kirsty Burgoine" title="Kirsty Burgoine" type="rss" xmlUrl="https://kirstyburgoine.wordpress.com/feed/" htmlUrl="https://kirstyburgoine.wordpress.com"/>
 <outline text="François Chalifour" title="François Chalifour" type="rss" xmlUrl="https://francoischalifour.com/rss.xml" htmlUrl="https://francoischalifour.com"/>
+<outline text="Danny Banks" title="Danny Banks" type="rss" xmlUrl="https://dbanks.design/rss.xml" htmlUrl="http://github.com/dylang/node-rss"/>
     <outline text="company blogs" title="company blogs">
 <outline text="The Paciello Group Blog" title="The Paciello Group Blog" type="rss" xmlUrl="http://blog.paciellogroup.com/feed/" htmlUrl="https://developer.paciellogroup.com"/>
 <outline text="The Typekit Blog" title="The Typekit Blog" type="rss" xmlUrl="http://blog.typekit.com/feed/" htmlUrl="https://blog.typekit.com"/>
@@ -356,6 +358,7 @@
 <outline text="Jon Pearse" title="Jon Pearse" type="rss" xmlUrl="https://jonpearse.net/writing/feed.xml" htmlUrl="https://jonpearse.net/"/>
 <outline text="Jon Christopher" title="Jon Christopher" type="rss" xmlUrl="https://jonchristopher.us/feed/" htmlUrl="https://jonchristopher.us"/>
 <outline text="CSS { In Real Life }" title="CSS { In Real Life }" type="rss" xmlUrl="https://css-irl.info/rss.xml" htmlUrl="https://css-irl.info"/>
+<outline text="Sally Lait" title="Sally Lait" type="rss" xmlUrl="https://sallylait.com/blog/index.xml" htmlUrl="https://sallylait.com/blog/"/>
 <outline text="Frank M Taylor" title="Frank M Taylor" type="rss" xmlUrl="https://blog.frankmtaylor.com/feed/" htmlUrl="https://blog.frankmtaylor.com"/>
 <outline text="Zeichenschatz" title="Zeichenschatz" type="rss" xmlUrl="https://www.zeichenschatz.net/feed" htmlUrl="https://www.zeichenschatz.net"/>
 <outline text="MadeByMike" title="MadeByMike" type="rss" xmlUrl="https://www.madebymike.com.au/rss.xml" htmlUrl="https://madebymike.com.au/"/>
@@ -383,6 +386,7 @@
 <outline text="Sam Hardacre" title="Sam Hardacre" type="rss" xmlUrl="https://blog.nocturnalmonkey.com/rss/" htmlUrl="https://blog.nocturnalmonkey.com/"/>
 <outline text="Kirsty Burgoine" title="Kirsty Burgoine" type="rss" xmlUrl="https://kirstyburgoine.wordpress.com/feed/" htmlUrl="https://kirstyburgoine.wordpress.com"/>
 <outline text="François Chalifour" title="François Chalifour" type="rss" xmlUrl="https://francoischalifour.com/rss.xml" htmlUrl="https://francoischalifour.com"/>
+<outline text="Danny Banks" title="Danny Banks" type="rss" xmlUrl="https://dbanks.design/rss.xml" htmlUrl="http://github.com/dylang/node-rss"/>
     </outline>
     <outline text="web magazine" title="web magazine">
 <outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="https://24ways.org/"/>
