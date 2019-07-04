@@ -436,6 +436,7 @@
 <outline text="Increment" title="Increment" type="rss" xmlUrl="https://increment.com/feed.xml" htmlUrl="https://increment.com"/>
 <outline text="The Pastry Box Project" title="The Pastry Box Project" type="rss" xmlUrl="https://superyesmore.com/publication/the-pastry-box-project-b0b6f27b41226ac8619212601b8fa48b/feed/rss2" htmlUrl="https://superyesmore.com/publication/the-pastry-box-project-b0b6f27b41226ac8619212601b8fa48b"/>
 <outline text="Matthias Ott – User Experience Designer" title="Matthias Ott – User Experience Designer" type="rss" xmlUrl="https://matthiasott.com/rss" htmlUrl="http://matthiasott.com"/>
+<outline text="Stephen Clark (sgclark.com)" title="Stephen Clark (sgclark.com)" type="rss" xmlUrl="http://www.sgclark.com/feed/" htmlUrl="http://www.sgclark.com"/>
     </outline>
   </body>
 </opml>
