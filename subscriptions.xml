@@ -219,6 +219,9 @@
 <outline text="CJCid" title="CJCid" type="rss" xmlUrl="https://www.cjcid.com/feeds/articles.xml" htmlUrl="https://www.cjcid.com/"/>
 <outline text="Tatiana Mac" title="Tatiana Mac" type="rss" xmlUrl="https://tatianamac.com/rss.xml" htmlUrl="https://www.tatianamac.com/"/>
 <outline text="Tatiana Mac" title="Tatiana Mac" type="rss" xmlUrl="https://tatianamac.com/feed/feed.xml" htmlUrl="https://www.tatianamac.com/"/>
+<outline text="Shane Hudson" title="Shane Hudson" type="rss" xmlUrl="https://shanehudson.net/articles/feed.rss" htmlUrl="https://shanehudson.net/articles/"/>
+<outline text="Shane Hudson Bookmarks" title="Shane Hudson Bookmarks" type="rss" xmlUrl="https://shanehudson.net/bookmarks/feed.rss" htmlUrl="https://shanehudson.net/bookmarks/"/>
+<outline text="Interviews by Shane Hudson" title="Interviews by Shane Hudson" type="rss" xmlUrl="https://interviews.shanehudson.net/feed.xml" htmlUrl="https://interviews.shanehudson.net/posts/"/>
     <outline text="company blogs" title="company blogs">
 <outline text="The Paciello Group Blog" title="The Paciello Group Blog" type="rss" xmlUrl="http://blog.paciellogroup.com/feed/" htmlUrl="https://developer.paciellogroup.com"/>
 <outline text="The Typekit Blog" title="The Typekit Blog" type="rss" xmlUrl="http://blog.typekit.com/feed/" htmlUrl="https://blog.typekit.com"/>
